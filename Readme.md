@@ -14,4 +14,4 @@ Venturing into the realms of artificial intelligence, I don the hat of a modern 
 In the magical world of DevOps, I wield the wand of automation, enchanting the software development process for unparalleled efficiency. Witness as spells of seamless collaboration and accelerated innovation unfold.
 
 
-![Resume](info/Mahesh-CV.png)
+![Resume](info/Mahesh_cv.png)
