@@ -1,1 +1,1 @@
-![Resume](Mahesh-CV.png)
+![Resume](info/Mahesh-CV.png)
